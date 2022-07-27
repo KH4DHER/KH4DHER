@@ -55,11 +55,11 @@ if __name__ == "__main__":
 <h3 align="center">Contact Me:</h3>
 <p align="center">
 <a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="kyrie_baran" height="30" width="40" /></a>
-<a href="https://instagram.com/_the_soul_rider_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
+<a href="https://instagram.com/KH4DH3R" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
 </p>
 
 <!--START_SECTION:waka-->
-<img src="https://komarev.com/ghpvc/?username=Alien-alfa&label=Profile%20views&color=ff69b4&label=Profile+Views&style=plastic">
+<img src="https://komarev.com/ghpvc/?username=KH4DHER&label=Profile%20views&color=ff69b4&label=Profile+Views&style=plastic">
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4%20Million%20lines%20of%20code-blue)
 
@@ -93,22 +93,22 @@ MacOS-BigSur, Windows11-Beta, Mint-Linux
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=phaticusthiccy&show_icons=true&layout=compact&theme=nightowl" alt="phaticusthiccy" /></p>
 -->
 <div align="center">
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Alien-alfa&show_icons=true&theme=nightowl" alt="Alien-alfa" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=KH4DHER&show_icons=true&theme=nightowl" alt="KH4DHER" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Alien-alfa&theme=nightowl" alt="Alien-alfa" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KH4DHER&theme=nightowl" alt="KH4DHER" /></p>
 </details> </div>
 
 <div align="center">
     <summary>&#127942 <b>GitHub Activity</b></summary><br/>
 
-![Metrics](https://metrics.lecoq.io/Alien-alfa?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=Europe%2FIstanbul)
+![Metrics](https://metrics.lecoq.io/KH4DHER?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=Europe%2FIstanbul)
 
-[![News](https://github-readme-stats.vercel.app/api/pin/?username=Alien-alfa&repo=wabot-aq)](https://github.com/Alien-alfa/wabot-aq)
+[![News](https://github-readme-stats.vercel.app/api/pin/?username=KH4DHER&repo=WHATSAPP-BOT-MD-2.0)](https://github.com/KH4DHER/WHATSAPP-BOT-MD-2.0)
 
 </div>
 <div align="center">
  <tr>
-        <td align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alien-alfa&theme=radical&layout=compact" /></td>
+        <td align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KH4DHER&theme=radical&layout=compact" /></td>
     </tr>
     <tr>
         <td align="center"><img src="http://open.spotify.com/track/6rqhFgbbKwnb9MLmUQDhG6&cover_image=false)" /></td>
@@ -118,7 +118,7 @@ MacOS-BigSur, Windows11-Beta, Mint-Linux
 <details>
     <summary>&#127942 <b>GitHub Awards</b></summary><br/>
 
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=Alien-alfa)
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=KH4DHER)
 
 </details>
     
