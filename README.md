@@ -1,13 +1,13 @@
 # KH4DHER
-<!-- < src="https://github.com/Alien-alfa/Alien-alfa/blob/beta/img/Bungee%20Shades.png"/> -->
+<!-- < src="https://telegra.ph/file/d8a064e1c66affe59a3f4.jpg"/> -->
 
 <p align="center">
-  <a href="https://www.instagram.com/alienalfa/"><img img align="center" height="auto" src="https://github.com/Alien-alfa/Alien-alfa/blob/beta/img/Bungee%20Shades.png?raw=true" alt="Profile"/> </a>
+  <a href="https://www.instagram.com/khadh3r/"><img img align="center" height="auto" src="https://telegra.ph/file/d8a064e1c66affe59a3f4.jpg?raw=true" alt="Profile"/> </a>
 </p>
 
 <!--
 ___
-![Metrics](https://github.com/Alien-alfa/Alien-alfa/blob/beta/github-metrics.svg)
+![Metrics](https://github.com/KH4DHER/KH4DHER)
 ___
 -->
 <!--
@@ -28,18 +28,18 @@ class say_hello:
         return self.__str__()
 
 if __name__ == "__main__":
-    print(say_hello("Hello there 👋, I'm Alien-alfa, Nice to meet you all!"))
+    print(say_hello("Hello there 👋, I'm khadher, Nice to meet you all!"))
 ```
 -->
 
 <div align="center">
   <a href="https://alien-alfa.github.io"><span class="avatar"> </a></span>
-  <h1>Albin Thomas</h1>
+  <h1>KH4DHER</h1>
 </div>
 
 
 <p align="center">
-  <a href="https://github.com/alien-Alfa"><img title="Release" src="https://img.shields.io/badge/About-You%20only%20live%20once,%20but%20if%20you%20do%20it%20right,%20once%20is%20enough-cyan.svg?style=for-the-badge&logo=appveyor" /></a>
+  <a href="https://github.com/KH4DHER"><img title="Release" src="https://img.shields.io/badge/About-You%20only%20live%20once,%20but%20if%20you%20do%20it%20right,%20once%20is%20enough-cyan.svg?style=for-the-badge&logo=appveyor" /></a>
 </p>
 
 <!--
@@ -47,9 +47,6 @@ if __name__ == "__main__":
 <h7> You only live once, but if you do it right, once is enough.</h7>
 </div>
 -->
-<p align="center">
-  <a href="https://www.youtube.com/c/alienalfa"><img title="Youtube Videos" src="https://github.com/Alien-alfa/Alien-alfa/blob/beta/MD-Images/yt.png?raw=true" width="150"></a>
-</p>
 
 <br><br>
 
